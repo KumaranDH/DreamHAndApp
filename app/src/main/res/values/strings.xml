@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">DreamH</string>
     <string name="action_settings">Settings</string>
+    <string name="gp_name_lbl">Name</string>
+    <string name="gp_sqrft_looking_lbl">Square Footage</string>
+    <string name="gp_num_members_lbl">Number of People in household</string>
+    <string name="gp_rent_vs_own_lbl">DO you Rent or Own</string>
+    <string name="gp_title">Basic Details</string>
+    <string name="gp_menu">Profile Menu</string>
+    <string name="gp_budget_lbl">Price Range</string>
 </resources>
